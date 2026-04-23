@@ -4,6 +4,21 @@
 [![wwang721's github stats](https://github-readme-stats.vercel.app/api?username=wwang721&show_icons=true)](https://github.com/wwang721/)
 -->
 
+### 📫 Contact
+ 
+- E-mail: ww000721@gmail.com / wei.wang@jhu.edu
+
+### 💻 Portfolio
+
+- 🧬 [PyAFV](https://github.com/wwang721/pyafv)  
+  Python implementation of the active Finite Voronoi (AFV) model.
+
+- 💾 [size-control-reproduce](https://github.com/wwang721/size-control-reproduce)  
+  Reproduction code → Phys. Rev. E **113**, 034405 (2026).
+
+- 💾 [allosteric-sensing-reproduce](https://github.com/wwang721/allosteric-sensing-reproduce)  
+  Reproduction code → Phys. Rev. E **113**, 044414 (2026). **[Editors' Suggestion]**
+
 ### 📊 GitHub Stats
 
 <table>
