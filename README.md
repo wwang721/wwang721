@@ -5,8 +5,9 @@
 -->
 
 ### 📫 Contact
- 
+
 - E-mail: ww000721@gmail.com / wei.wang@jhu.edu
+
 
 ### 💻 Portfolio
 
@@ -18,6 +19,9 @@
 
 - 💾 [allosteric-sensing-reproduce](https://github.com/wwang721/allosteric-sensing-reproduce)  
   Reproduction code → Phys. Rev. E **113**, 044414 (2026). **[Editors' Suggestion]**
+
+Like what you see? ❤️ [Support my work](https://sponsor.wwang721.com). ☕
+
 
 ### 📊 GitHub Stats
 
@@ -51,3 +55,4 @@
 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wwang721/wwang721/main/assets/github-contribution-grid-snake.svg">
 </picture>
+
